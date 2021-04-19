@@ -1,0 +1,11 @@
+.chores h3 {
+    color: darkcyan;
+    font-size: 32px;
+    border-bottom: 1px solid black;
+}
+
+.chores h3 {
+    color:darkred;
+    font-size: 14px;
+    font-style: italic;
+}
